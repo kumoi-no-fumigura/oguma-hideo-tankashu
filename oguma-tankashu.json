@@ -1,0 +1,6106 @@
+{
+ "work": "小熊秀雄 短歌集",
+ "work_id": "oguma-tankashu",
+ "repo": "kumoi-no-fumigura/oguma-hideo-tankashu",
+ "yomi": "おぐまひでおたんかしゅう",
+ "category": "近代歌集",
+ "kind": "kashu",
+ "description": {
+  "kind": "近代歌集",
+  "era": "昭和時代",
+  "author": "小熊秀雄",
+  "desc": "小熊秀雄の短歌を収める（小熊秀雄全集の第一巻）。"
+ },
+ "editions": [
+  {
+   "pid": "aozora",
+   "title": "新版・小熊秀雄全集第1巻",
+   "editor": "入力: 浜野智、校正: 八巻美恵",
+   "series": "青空文庫",
+   "publisher": "創樹社",
+   "year": 1990,
+   "pages": "",
+   "url": "https://www.aozora.gr.jp/cards/000124/card651.html"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "oguma-tankashu-000001",
+   "pid": "aozora",
+   "pages": [],
+   "no": 1,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "産科院よるのさびしさ夕食の鈴のしづかに鳴りにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000002",
+   "pid": "aozora",
+   "pages": [],
+   "no": 2,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おぎや……たかくさびしく産科院けだものの子のうまれけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000003",
+   "pid": "aozora",
+   "pages": [],
+   "no": 3,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けだものの子はかたくもろ手を胸にくみしつかりなにかにぎり居るかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000004",
+   "pid": "aozora",
+   "pages": [],
+   "no": 4,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うすら毛のけだものの子は四つ足をふんばりにつつ呼吸づきにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000005",
+   "pid": "aozora",
+   "pages": [],
+   "no": 5,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けだものの子は昼としなればひそまりて小鼻かすかにうごめけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000006",
+   "pid": "aozora",
+   "pages": [],
+   "no": 6,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おそるおそるけだものの子の心臓のあたりに指を触れにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000007",
+   "pid": "aozora",
+   "pages": [],
+   "no": 7,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けだものの子は瞼かすかにうごかしつ外面の草の戦ぐきくかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "戦",
+     "r": "そよ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000008",
+   "pid": "aozora",
+   "pages": [],
+   "no": 8,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けだものの子は生れながらにものを食す術しりたればうらがなしかり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "食",
+     "r": "お"
+    },
+    {
+     "a": "術",
+     "r": "すべ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000009",
+   "pid": "aozora",
+   "pages": [],
+   "no": 9,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黒薔薇はなにか予言まむかいのけだものの子にいひにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "予言",
+     "r": "かねごと"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000010",
+   "pid": "aozora",
+   "pages": [],
+   "no": 10,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けだものの子はとつぜんに手足ふり狂乱となり泣きにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000011",
+   "pid": "aozora",
+   "pages": [],
+   "no": 11,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けだものの子は現世いやとかぶりふり土ひた恋ひて泣きにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000012",
+   "pid": "aozora",
+   "pages": [],
+   "no": 12,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひえびえの秋風ふけばけだものの子にも感づとふるひけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000013",
+   "pid": "aozora",
+   "pages": [],
+   "no": 13,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "入りつ日をけだものの子はあびしかばうぶ毛金毛となりにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000014",
+   "pid": "aozora",
+   "pages": [],
+   "no": 14,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひそかにひそかにけだものの子のその親を柩のなかにいれにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "柩",
+     "r": "ひつぎ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000015",
+   "pid": "aozora",
+   "pages": [],
+   "no": 15,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひそかにひそかにけだものの子のその親の柩は門をいでにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000016",
+   "pid": "aozora",
+   "pages": [],
+   "no": 16,
+   "maki": "",
+   "bu": "",
+   "dai": "けだものの子",
+   "kotobagaki": "",
+   "author": "",
+   "text": "入りつ日のかがやく野辺のさいはてにあかき柩はかくれたるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000017",
+   "pid": "aozora",
+   "pages": [],
+   "no": 17,
+   "maki": "",
+   "bu": "",
+   "dai": "河豚の腹",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひろがれる靄うみにみち沖のへに鐘鼓ひまなくなりしきりなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000018",
+   "pid": "aozora",
+   "pages": [],
+   "no": 18,
+   "maki": "",
+   "bu": "",
+   "dai": "河豚の腹",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あまりにもいろ濃き空よ見つむれば紫紺堕つるとおもはるるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紫紺",
+     "r": "しこん"
+    },
+    {
+     "a": "堕",
+     "r": "お"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000019",
+   "pid": "aozora",
+   "pages": [],
+   "no": 19,
+   "maki": "",
+   "bu": "",
+   "dai": "河豚の腹",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海ぎしに河豚の腹などたたきつつこどもごころとなりにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000020",
+   "pid": "aozora",
+   "pages": [],
+   "no": 20,
+   "maki": "",
+   "bu": "",
+   "dai": "河豚の腹",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なぎさにいで貝のかけらを千万にくだけど遂にけむりとならず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000021",
+   "pid": "aozora",
+   "pages": [],
+   "no": 21,
+   "maki": "",
+   "bu": "",
+   "dai": "河豚の腹",
+   "kotobagaki": "",
+   "author": "",
+   "text": "童子らは青藻のかげの夜光珠の粗玉などをさがすなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夜光珠",
+     "r": "やこうしゆ"
+    },
+    {
+     "a": "粗玉",
+     "r": "あらたま"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000022",
+   "pid": "aozora",
+   "pages": [],
+   "no": 22,
+   "maki": "",
+   "bu": "",
+   "dai": "河豚の腹",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鶺鴒ひねもす岩に尾をたたき砂地だんだんくれにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鶺鴒",
+     "r": "いしたたき"
+    },
+    {
+     "a": "砂地",
+     "r": "すなぢ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000023",
+   "pid": "aozora",
+   "pages": [],
+   "no": 23,
+   "maki": "",
+   "bu": "",
+   "dai": "悲しき夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "支那人は黄なる歯をみせ鞭をあげさてこれよりと言ひいでしかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鞭",
+     "r": "むち"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000024",
+   "pid": "aozora",
+   "pages": [],
+   "no": 24,
+   "maki": "",
+   "bu": "",
+   "dai": "悲しき夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぬば玉の闇よりぱつとあらはれし青き男はわれなりしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000025",
+   "pid": "aozora",
+   "pages": [],
+   "no": 25,
+   "maki": "",
+   "bu": "",
+   "dai": "悲しき夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いろ青き天鵞絨服のつめたさを素肌にきれば秋が身にしむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "天鵞絨服",
+     "r": "びろうどふく"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000026",
+   "pid": "aozora",
+   "pages": [],
+   "no": 26,
+   "maki": "",
+   "bu": "",
+   "dai": "悲しき夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ましろなる顔の瞼をくまどりて鏡にむかひ笑ふわれなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "瞼",
+     "r": "まぶた"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000027",
+   "pid": "aozora",
+   "pages": [],
+   "no": 27,
+   "maki": "",
+   "bu": "",
+   "dai": "悲しき夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "窪みたるまなこしみじみ愛ほしと鏡にむかひ摩るわれなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "愛",
+     "r": "いと"
+    },
+    {
+     "a": "摩",
+     "r": "さす"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000028",
+   "pid": "aozora",
+   "pages": [],
+   "no": 28,
+   "maki": "",
+   "bu": "",
+   "dai": "悲しき夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くるはしき踊りにつかれ天鵞絨のゆかに倒れてねむるわれなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "天鵞絨",
+     "r": "びろうど"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000029",
+   "pid": "aozora",
+   "pages": [],
+   "no": 29,
+   "maki": "",
+   "bu": "",
+   "dai": "悲しき夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "『現身のうれしき糧は酒なり』とまなこにつげといふはわれなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "現身",
+     "r": "うつしみ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000030",
+   "pid": "aozora",
+   "pages": [],
+   "no": 30,
+   "maki": "",
+   "bu": "",
+   "dai": "悲しき夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この床に踊りつかれてねいるごといのちをはれば満足ならむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000031",
+   "pid": "aozora",
+   "pages": [],
+   "no": 31,
+   "maki": "",
+   "bu": "",
+   "dai": "悲しき夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "こもり居て親をおもへば金鼓うち踊るわれなり歌ふわれなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金鼓",
+     "r": "きんこ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000032",
+   "pid": "aozora",
+   "pages": [],
+   "no": 32,
+   "maki": "",
+   "bu": "",
+   "dai": "聖人のまね",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日の落つる丘に手をくみ眼をつぶり聖人のまねをなしにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "聖人",
+     "r": "ひぢり"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000033",
+   "pid": "aozora",
+   "pages": [],
+   "no": 33,
+   "maki": "",
+   "bu": "",
+   "dai": "聖人のまね",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まねなれど聖人の真似のたうとけれ海にむかひておもふことなし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "聖人",
+     "r": "ひぢり"
+    },
+    {
+     "a": "真似",
+     "r": "まね"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000034",
+   "pid": "aozora",
+   "pages": [],
+   "no": 34,
+   "maki": "",
+   "bu": "",
+   "dai": "聖人のまね",
+   "kotobagaki": "",
+   "author": "",
+   "text": "めをつぶるひぢりの腹にしんしんとさびしくひくく潮鳴りきこゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000035",
+   "pid": "aozora",
+   "pages": [],
+   "no": 35,
+   "maki": "",
+   "bu": "",
+   "dai": "聖人のまね",
+   "kotobagaki": "",
+   "author": "",
+   "text": "にせものの聖人は腹のすきければ聖人をやめてたちにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000036",
+   "pid": "aozora",
+   "pages": [],
+   "no": 36,
+   "maki": "",
+   "bu": "",
+   "dai": "聖人のまね",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼ひらけば入日は海にひろがりてあかくするどく眼に沁みしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000037",
+   "pid": "aozora",
+   "pages": [],
+   "no": 37,
+   "maki": "",
+   "bu": "",
+   "dai": "聖人のまね",
+   "kotobagaki": "",
+   "author": "",
+   "text": "にんげんのこころとなりてたちあがり着物の土を払ひけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000038",
+   "pid": "aozora",
+   "pages": [],
+   "no": 38,
+   "maki": "",
+   "bu": "",
+   "dai": "聖人のまね",
+   "kotobagaki": "",
+   "author": "",
+   "text": "つぶる眼のまぶたあかるく入つ日は海にかがやきしづかなるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000039",
+   "pid": "aozora",
+   "pages": [],
+   "no": 39,
+   "maki": "",
+   "bu": "",
+   "dai": "潜水夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寒天をたたえしごとき重々し海のうねりに潜水夫あらはる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "潜水夫",
+     "r": "もぐり"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000040",
+   "pid": "aozora",
+   "pages": [],
+   "no": 40,
+   "maki": "",
+   "bu": "",
+   "dai": "潜水夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みな底のもぐりの男かなしけれ妻のポンプをたよるなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000041",
+   "pid": "aozora",
+   "pages": [],
+   "no": 41,
+   "maki": "",
+   "bu": "",
+   "dai": "潜水夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "築港の真昼の砂にさかしまに潜水夫の服のほされたるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "築港",
+     "r": "ちくこう"
+    },
+    {
+     "a": "潜水夫",
+     "r": "もぐり"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000042",
+   "pid": "aozora",
+   "pages": [],
+   "no": 42,
+   "maki": "",
+   "bu": "",
+   "dai": "潜水夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぶくぶくと水面に泡のたちければ潜水夫の死ぬとおもひけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "泡",
+     "r": "あわ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000043",
+   "pid": "aozora",
+   "pages": [],
+   "no": 43,
+   "maki": "",
+   "bu": "",
+   "dai": "国境",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山道に赤き苺の雨にぬれいろあざやかにこぼれあるなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "苺",
+     "r": "いちご"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000044",
+   "pid": "aozora",
+   "pages": [],
+   "no": 44,
+   "maki": "",
+   "bu": "",
+   "dai": "国境",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たえがたきうらさびしさにゆきずりの野草にふれぬ露にぬれつつ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000045",
+   "pid": "aozora",
+   "pages": [],
+   "no": 45,
+   "maki": "",
+   "bu": "",
+   "dai": "国境",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みかへればはるかわが村一望のうちにおさまり河遠白く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000046",
+   "pid": "aozora",
+   "pages": [],
+   "no": 46,
+   "maki": "",
+   "bu": "",
+   "dai": "国境",
+   "kotobagaki": "",
+   "author": "",
+   "text": "らんまんに盆花さける隣国に一歩ふみいれなみだながしぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000047",
+   "pid": "aozora",
+   "pages": [],
+   "no": 47,
+   "maki": "",
+   "bu": "",
+   "dai": "雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝の湯の湯気のくもりに老人がしんじつひたり念仏もうす",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000048",
+   "pid": "aozora",
+   "pages": [],
+   "no": 48,
+   "maki": "",
+   "bu": "",
+   "dai": "雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "土手にゆけば土手の臭ひのかなしけれ萌えてまもなき青草の土手",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "臭",
+     "r": "にほ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000049",
+   "pid": "aozora",
+   "pages": [],
+   "no": 49,
+   "maki": "",
+   "bu": "",
+   "dai": "雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ダッタンの海のくろきに白鳥のうかべば羽のそまるとおもふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000050",
+   "pid": "aozora",
+   "pages": [],
+   "no": 50,
+   "maki": "",
+   "bu": "",
+   "dai": "雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の夜の窓の硝子に頬よせて海のあかりにみいるなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000051",
+   "pid": "aozora",
+   "pages": [],
+   "no": 51,
+   "maki": "",
+   "bu": "",
+   "dai": "雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひつそりとあたりしづかに風凪ぎの海のなぎさに砂音きこゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000052",
+   "pid": "aozora",
+   "pages": [],
+   "no": 52,
+   "maki": "",
+   "bu": "",
+   "dai": "雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "船子どもは声をそろへてくらがりの沖に夜網をおこすなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000053",
+   "pid": "aozora",
+   "pages": [],
+   "no": 53,
+   "maki": "",
+   "bu": "",
+   "dai": "雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぬば玉の闇にかがり火たく船のふなばら赤く海にうつれり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000054",
+   "pid": "aozora",
+   "pages": [],
+   "no": 54,
+   "maki": "",
+   "bu": "",
+   "dai": "晩秋の街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "苦心して男のはりし赤きビラいま風きたりはぎてゆけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000055",
+   "pid": "aozora",
+   "pages": [],
+   "no": 55,
+   "maki": "",
+   "bu": "",
+   "dai": "晩秋の街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "十字路にけふもかがまりくるい女はごみ箱のかげあかきもの食める",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "女",
+     "r": "め"
+    },
+    {
+     "a": "食",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000056",
+   "pid": "aozora",
+   "pages": [],
+   "no": 56,
+   "maki": "",
+   "bu": "",
+   "dai": "晩秋の街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "犬の顔まぢまぢみれば犬もまたまぢまぢわれのかほをみしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000057",
+   "pid": "aozora",
+   "pages": [],
+   "no": 57,
+   "maki": "",
+   "bu": "",
+   "dai": "晩秋の街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "すたすたとまぢめの顔しくろき犬旅するごとく街あゆむかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000058",
+   "pid": "aozora",
+   "pages": [],
+   "no": 58,
+   "maki": "",
+   "bu": "",
+   "dai": "晩秋の街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なかなかに朝靄はれず酒造場の大いなる桶の箍うつきこゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000059",
+   "pid": "aozora",
+   "pages": [],
+   "no": 59,
+   "maki": "",
+   "bu": "",
+   "dai": "晩秋の街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大道のせともの売は皿と皿すりてさびしき音たてしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000060",
+   "pid": "aozora",
+   "pages": [],
+   "no": 60,
+   "maki": "",
+   "bu": "",
+   "dai": "晩秋の街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しろ服のあまたのなかに冬服のひとりまじりてさびし夜の街",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000061",
+   "pid": "aozora",
+   "pages": [],
+   "no": 61,
+   "maki": "",
+   "bu": "",
+   "dai": "晩秋の街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "街をゆき女の肌にわがさ指ふれておもはずおどろきしかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000062",
+   "pid": "aozora",
+   "pages": [],
+   "no": 62,
+   "maki": "",
+   "bu": "",
+   "dai": "畠の恋",
+   "kotobagaki": "",
+   "author": "",
+   "text": "太陽にそむきてさきし向日葵はその咎にして萎れたるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "向日葵",
+     "r": "ひまわり"
+    },
+    {
+     "a": "咎",
+     "r": "とが"
+    },
+    {
+     "a": "萎",
+     "r": "しを"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000063",
+   "pid": "aozora",
+   "pages": [],
+   "no": 63,
+   "maki": "",
+   "bu": "",
+   "dai": "畠の恋",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よくはずみ侏儒の手まりのごとくなり豆鞘わればころがりいづる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000064",
+   "pid": "aozora",
+   "pages": [],
+   "no": 64,
+   "maki": "",
+   "bu": "",
+   "dai": "畠の恋",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わかものの畠の恋は黍殻をたばかされなと風ふきしかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黍殻",
+     "r": "きびがら"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000065",
+   "pid": "aozora",
+   "pages": [],
+   "no": 65,
+   "maki": "",
+   "bu": "",
+   "dai": "黄金の果実",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けだものの子は大人となりぬ一本も毛のなきことが悲しかりける",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大人",
+     "r": "をとな"
+    },
+    {
+     "a": "一本",
+     "r": "いつぽん"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000066",
+   "pid": "aozora",
+   "pages": [],
+   "no": 66,
+   "maki": "",
+   "bu": "",
+   "dai": "黄金の果実",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黄金の実をつまむてだてをけだものの大人がよりてかたるなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黄金",
+     "r": "きん"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000067",
+   "pid": "aozora",
+   "pages": [],
+   "no": 67,
+   "maki": "",
+   "bu": "",
+   "dai": "黄金の果実",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いささかの黄金の木の実のいさかいにけだものは刀ぬきにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黄金",
+     "r": "きん"
+    },
+    {
+     "a": "木",
+     "r": "こ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000068",
+   "pid": "aozora",
+   "pages": [],
+   "no": 68,
+   "maki": "",
+   "bu": "",
+   "dai": "黄金の果実",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いささかの黄金の木の実のいさかいにけだもの一匹斃れたるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一匹",
+     "r": "いつぴき"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000069",
+   "pid": "aozora",
+   "pages": [],
+   "no": 69,
+   "maki": "",
+   "bu": "",
+   "dai": "黄金の果実",
+   "kotobagaki": "",
+   "author": "",
+   "text": "つめどもつめどもけだものどもは黄金の実を足ることしらずけふも摘みをり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黄金",
+     "r": "きん"
+    },
+    {
+     "a": "実",
+     "r": "み"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000070",
+   "pid": "aozora",
+   "pages": [],
+   "no": 70,
+   "maki": "",
+   "bu": "",
+   "dai": "黄金の果実",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うら悲しけだものどもは黄金の実をひた恋ひしゆえ傷つきにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黄金",
+     "r": "きん"
+    },
+    {
+     "a": "実",
+     "r": "み"
+    },
+    {
+     "a": "傷",
+     "r": "きづ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000071",
+   "pid": "aozora",
+   "pages": [],
+   "no": 71,
+   "maki": "",
+   "bu": "",
+   "dai": "黄金の果実",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うら悲しけだものどもは銀の実をひたこひにけり嘘いひにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000072",
+   "pid": "aozora",
+   "pages": [],
+   "no": 72,
+   "maki": "",
+   "bu": "",
+   "dai": "黄金の果実",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うら悲しけだものどもは銅の実をひたこひにけり首くくりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000073",
+   "pid": "aozora",
+   "pages": [],
+   "no": 73,
+   "maki": "",
+   "bu": "",
+   "dai": "友を焼く",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うつむきてみなもの言はず火葬場のしじまに骨を拾ふなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000074",
+   "pid": "aozora",
+   "pages": [],
+   "no": 74,
+   "maki": "",
+   "bu": "",
+   "dai": "友を焼く",
+   "kotobagaki": "",
+   "author": "",
+   "text": "友の歯をひとつふたつとかぞへつつ白木の箸にひろふ火葬場",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000075",
+   "pid": "aozora",
+   "pages": [],
+   "no": 75,
+   "maki": "",
+   "bu": "",
+   "dai": "友を焼く",
+   "kotobagaki": "",
+   "author": "",
+   "text": "友焼きてかへる花野の細道に草鞋の紐とけにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "草鞋",
+     "r": "わらんぢ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000076",
+   "pid": "aozora",
+   "pages": [],
+   "no": 76,
+   "maki": "",
+   "bu": "",
+   "dai": "友を焼く",
+   "kotobagaki": "",
+   "author": "",
+   "text": "杳かなる花野のもなかいつぽんのすぐたちの木に烏とまるも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000077",
+   "pid": "aozora",
+   "pages": [],
+   "no": 77,
+   "maki": "",
+   "bu": "",
+   "dai": "友を焼く",
+   "kotobagaki": "",
+   "author": "",
+   "text": "火葬場は曼珠沙華の秀にかくれたりはるかにしろきけむりたつ見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "曼珠沙華",
+     "r": "ぼんばな"
+    },
+    {
+     "a": "秀",
+     "r": "ほ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000078",
+   "pid": "aozora",
+   "pages": [],
+   "no": 78,
+   "maki": "",
+   "bu": "",
+   "dai": "友を焼く",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕ざりて河のどよみを茄子の馬胡瓜の馬が流れたりける",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000079",
+   "pid": "aozora",
+   "pages": [],
+   "no": 79,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝の陽は障子あかるくいちめんに照りかがやけばまなこくらみぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "障子",
+     "r": "しようぢ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000080",
+   "pid": "aozora",
+   "pages": [],
+   "no": 80,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひたすらに爆竹をうつなりわいをしてみたき日ぞ空をながむる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000081",
+   "pid": "aozora",
+   "pages": [],
+   "no": 81,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝まだき靄にきこえてすがすがし法華の太鼓しづかなるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "法華",
+     "r": "ほつけ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000082",
+   "pid": "aozora",
+   "pages": [],
+   "no": 82,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "にんげんにうまれしといふ悔恨をつくづくかんぢ涙ながしぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000083",
+   "pid": "aozora",
+   "pages": [],
+   "no": 83,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "にんげんの子がうまれしと紅白のまんまろの餅おくり来しかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅白",
+     "r": "こうはく"
+    },
+    {
+     "a": "餅",
+     "r": "もち"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000084",
+   "pid": "aozora",
+   "pages": [],
+   "no": 84,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝の湯のくもりがらすに女湯のをんなのあたまうつりけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000085",
+   "pid": "aozora",
+   "pages": [],
+   "no": 85,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "からんからん茶椀をならしみつれどもさびしさ癒ずひとり飯食む",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "癒",
+     "r": "いえ"
+    },
+    {
+     "a": "飯",
+     "r": "いひ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000086",
+   "pid": "aozora",
+   "pages": [],
+   "no": 86,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひからびし手をもて母が炊ぎたる尊とき飯ぞしみじみと食す",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "尊",
+     "r": "たふ"
+    },
+    {
+     "a": "飯",
+     "r": "いひ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000087",
+   "pid": "aozora",
+   "pages": [],
+   "no": 87,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一すぢのしろき道なりそのかみは君と手をとりすぎし道なり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000088",
+   "pid": "aozora",
+   "pages": [],
+   "no": 88,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "路のべの赤き小石をてにとりて息ふきかけて見はみつれども",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000089",
+   "pid": "aozora",
+   "pages": [],
+   "no": 89,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なにがなしに素足となりてわが街をあゆむこころのおきにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000090",
+   "pid": "aozora",
+   "pages": [],
+   "no": 90,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "町角の湯屋にうどん華さきしてふ噂もいつかきえにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "華",
+     "r": "げ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000091",
+   "pid": "aozora",
+   "pages": [],
+   "no": 91,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝顔は咲きて萎みてくりかへしころりと鉢に散りにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "萎",
+     "r": "しぼ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000092",
+   "pid": "aozora",
+   "pages": [],
+   "no": 92,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さてこれよりいづこにゆかむ十字路に立ちてあたりを見まはせしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000093",
+   "pid": "aozora",
+   "pages": [],
+   "no": 93,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "少年のこころとなりて石塊を路上ころころころがしてゆく",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "石塊",
+     "r": "いしころ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000094",
+   "pid": "aozora",
+   "pages": [],
+   "no": 94,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "街なかにあたりうかがひ呼子笛ひとふきふけばこころおさまる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000095",
+   "pid": "aozora",
+   "pages": [],
+   "no": 95,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "谿越えてあの山こえて帰るてふ飴屋おもへば笛きこえ来し",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000096",
+   "pid": "aozora",
+   "pages": [],
+   "no": 96,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かつかつと足音たかく橋の上人形のごとうごく兵隊",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000097",
+   "pid": "aozora",
+   "pages": [],
+   "no": 97,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "つつましく日本のをんな菊の花もちて街ゆくふさはしきかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "日本",
+     "r": "にほん"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000098",
+   "pid": "aozora",
+   "pages": [],
+   "no": 98,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "嘘つきのたくみの友とさ夜ふけに語りあひけりうそとしりつつ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "語",
+     "r": "かた"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000099",
+   "pid": "aozora",
+   "pages": [],
+   "no": 99,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "子らがみな一列にならびつぐみたる口元みればお可笑かりける",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000100",
+   "pid": "aozora",
+   "pages": [],
+   "no": 100,
+   "maki": "",
+   "bu": "",
+   "dai": "十字路",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鳥さしの児の帽子のひさしま日をうけしろく輝やきうごかざるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000101",
+   "pid": "aozora",
+   "pages": [],
+   "no": 101,
+   "maki": "",
+   "bu": "",
+   "dai": "尾張屋爺　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "杣夫なる尾張屋爺はさむらいの成れの果てなり剣術を知る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "成",
+     "r": "な"
+    },
+    {
+     "a": "果",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000102",
+   "pid": "aozora",
+   "pages": [],
+   "no": 102,
+   "maki": "",
+   "bu": "",
+   "dai": "尾張屋爺　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "新聞をまるめて爺と仕合しぬをりをり禿をたたくなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000103",
+   "pid": "aozora",
+   "pages": [],
+   "no": 103,
+   "maki": "",
+   "bu": "",
+   "dai": "尾張屋爺　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "杣夫なる尾張屋爺はさむらいの成れの果てなり忍術を知る",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000104",
+   "pid": "aozora",
+   "pages": [],
+   "no": 104,
+   "maki": "",
+   "bu": "",
+   "dai": "尾張屋爺　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "忍術をみせよと爺にせがみたり外面はしきり吹雪するなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "外面",
+     "r": "とのも"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000105",
+   "pid": "aozora",
+   "pages": [],
+   "no": 105,
+   "maki": "",
+   "bu": "",
+   "dai": "尾張屋爺　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼をつぶり尊とげのこといひたれど蟇はもいでず鼠もいでず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "尊",
+     "r": "たふ"
+    },
+    {
+     "a": "蟇",
+     "r": "ひき"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000106",
+   "pid": "aozora",
+   "pages": [],
+   "no": 106,
+   "maki": "",
+   "bu": "",
+   "dai": "尾張屋爺　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "酒のめば水遁火遁忍術をなすといひしがついにせぬなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000107",
+   "pid": "aozora",
+   "pages": [],
+   "no": 107,
+   "maki": "",
+   "bu": "",
+   "dai": "尾張屋爺　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "飯食みてをればとどろと裏山に爺が大樹を倒せしひびき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000108",
+   "pid": "aozora",
+   "pages": [],
+   "no": 108,
+   "maki": "",
+   "bu": "",
+   "dai": "尾張屋爺　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かんじき……を履きて爺は朝はれの雪の林にいりにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000109",
+   "pid": "aozora",
+   "pages": [],
+   "no": 109,
+   "maki": "",
+   "bu": "",
+   "dai": "秋の船旅",
+   "kotobagaki": "",
+   "author": "",
+   "text": "船客に道化師まぢりほろほろと横笛なりぬ秋のふな旅",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000110",
+   "pid": "aozora",
+   "pages": [],
+   "no": 110,
+   "maki": "",
+   "bu": "",
+   "dai": "秋の船旅",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山遠き小能登呂の浜まひる日に青くかがやき草もゆるみゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小能登呂",
+     "r": "このとろ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000111",
+   "pid": "aozora",
+   "pages": [],
+   "no": 111,
+   "maki": "",
+   "bu": "",
+   "dai": "踊る烏",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なやましき夏の真昼のへんげものからす輪となり踊るなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000112",
+   "pid": "aozora",
+   "pages": [],
+   "no": 112,
+   "maki": "",
+   "bu": "",
+   "dai": "踊る烏",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なやましき烏の踊りみぎり足いちぢるしくもあげにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000113",
+   "pid": "aozora",
+   "pages": [],
+   "no": 113,
+   "maki": "",
+   "bu": "",
+   "dai": "踊る烏",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ちよんちよんと二足三足かた足で歩みしろ眼をつかひけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二",
+     "r": "ふた"
+    },
+    {
+     "a": "足三",
+     "r": "み"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000114",
+   "pid": "aozora",
+   "pages": [],
+   "no": 114,
+   "maki": "",
+   "bu": "",
+   "dai": "踊る烏",
+   "kotobagaki": "",
+   "author": "",
+   "text": "からす等のへんげの踊りみてあれば胸がくるしくなりにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000115",
+   "pid": "aozora",
+   "pages": [],
+   "no": 115,
+   "maki": "",
+   "bu": "",
+   "dai": "踊る烏",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恋の歌うたふ男のきまぐれを烏はかあとわらひけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000116",
+   "pid": "aozora",
+   "pages": [],
+   "no": 116,
+   "maki": "",
+   "bu": "",
+   "dai": "愛奴部落",
+   "kotobagaki": "",
+   "author": "",
+   "text": "のぞきたるアイヌの家にいたましく鮭の半身のつるされしかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鮭",
+     "r": "さけ"
+    },
+    {
+     "a": "半身",
+     "r": "はんみ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000117",
+   "pid": "aozora",
+   "pages": [],
+   "no": 117,
+   "maki": "",
+   "bu": "",
+   "dai": "愛奴部落",
+   "kotobagaki": "",
+   "author": "",
+   "text": "和子の子の愛奴に悪口いひければ毒矢木ひくぞとわらひけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "和子",
+     "r": "しやも"
+    },
+    {
+     "a": "愛奴",
+     "r": "あいぬ"
+    },
+    {
+     "a": "毒矢",
+     "r": "ぶしや"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000118",
+   "pid": "aozora",
+   "pages": [],
+   "no": 118,
+   "maki": "",
+   "bu": "",
+   "dai": "愛奴部落",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山焼けの遠火のけむりたなびきてかすみのごとくみゆるなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000119",
+   "pid": "aozora",
+   "pages": [],
+   "no": 119,
+   "maki": "",
+   "bu": "",
+   "dai": "愛奴部落",
+   "kotobagaki": "",
+   "author": "",
+   "text": "草丘をのぼりつくればアイヌの実茶色つぶつぶ敷かれたるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000120",
+   "pid": "aozora",
+   "pages": [],
+   "no": 120,
+   "maki": "",
+   "bu": "",
+   "dai": "大館町　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋田に住む叔母がましろきつやつやのかほなどおもふ雨のひるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000121",
+   "pid": "aozora",
+   "pages": [],
+   "no": 121,
+   "maki": "",
+   "bu": "",
+   "dai": "大館町　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "通草とりの子ははろか山道種ふきてすぎるみゆかな頭をふりにつつ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000122",
+   "pid": "aozora",
+   "pages": [],
+   "no": 122,
+   "maki": "",
+   "bu": "",
+   "dai": "大館町　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "通草とりの子にあけびをひとつくれと言ひくれざりしかもさびしかりける",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000123",
+   "pid": "aozora",
+   "pages": [],
+   "no": 123,
+   "maki": "",
+   "bu": "",
+   "dai": "大館町　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "色白き河原の石の反射などまなこを閉ぢておもふなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000124",
+   "pid": "aozora",
+   "pages": [],
+   "no": 124,
+   "maki": "",
+   "bu": "",
+   "dai": "大館町　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "河岸のうすくらがりに蝙蝠を追ひてこどもらいまだかへらず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蝙蝠",
+     "r": "こうもり"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000125",
+   "pid": "aozora",
+   "pages": [],
+   "no": 125,
+   "maki": "",
+   "bu": "",
+   "dai": "大館町　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "縞蛭は日ぐれの沼にうごくなり吸血のすべしるがかなしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000126",
+   "pid": "aozora",
+   "pages": [],
+   "no": 126,
+   "maki": "",
+   "bu": "",
+   "dai": "大館町　思ひ出",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕暮れの沼のあさどのおぐらきに水しはつくり蛭うごくなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000127",
+   "pid": "aozora",
+   "pages": [],
+   "no": 127,
+   "maki": "",
+   "bu": "",
+   "dai": "馬小舎",
+   "kotobagaki": "",
+   "author": "",
+   "text": "馬小舎のうまがきり藁食す音のとどろひびきて頭にのぼるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000128",
+   "pid": "aozora",
+   "pages": [],
+   "no": 128,
+   "maki": "",
+   "bu": "",
+   "dai": "馬小舎",
+   "kotobagaki": "",
+   "author": "",
+   "text": "床にゐて馬小舎の馬が屋梁を噛む癖を叱りてねいるなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "屋",
+     "r": "は"
+    },
+    {
+     "a": "梁",
+     "r": "り"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000129",
+   "pid": "aozora",
+   "pages": [],
+   "no": 129,
+   "maki": "",
+   "bu": "",
+   "dai": "馬小舎",
+   "kotobagaki": "",
+   "author": "",
+   "text": "押切りをたくみに使ふ若者に指などきるなといひかけしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000130",
+   "pid": "aozora",
+   "pages": [],
+   "no": 130,
+   "maki": "",
+   "bu": "",
+   "dai": "馬小舎",
+   "kotobagaki": "",
+   "author": "",
+   "text": "切り藁にほそり木まぢりゐるけらしぽきと音して手応へしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000131",
+   "pid": "aozora",
+   "pages": [],
+   "no": 131,
+   "maki": "",
+   "bu": "",
+   "dai": "馬小舎",
+   "kotobagaki": "",
+   "author": "",
+   "text": "馬小舎の飼ばの桶に庭鳥が卵をひとつ産みてあるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000132",
+   "pid": "aozora",
+   "pages": [],
+   "no": 132,
+   "maki": "",
+   "bu": "",
+   "dai": "大根畠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山蔭に薄陽をあびて大根をほればもろ手のつめたかりける",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000133",
+   "pid": "aozora",
+   "pages": [],
+   "no": 133,
+   "maki": "",
+   "bu": "",
+   "dai": "大根畠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しんしんと地がなるごとし大根をほる手をとどめ土にかがみぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000134",
+   "pid": "aozora",
+   "pages": [],
+   "no": 134,
+   "maki": "",
+   "bu": "",
+   "dai": "大根畠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕ざれば地の冷えまさりこんこんとつづけて咳のいでにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000135",
+   "pid": "aozora",
+   "pages": [],
+   "no": 135,
+   "maki": "",
+   "bu": "",
+   "dai": "大根畠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "現世に大根が生きてゐることのお可笑かりけりうごかぬ大根",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000136",
+   "pid": "aozora",
+   "pages": [],
+   "no": 136,
+   "maki": "",
+   "bu": "",
+   "dai": "大根畠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕闇のなかにましろくつみあげし大根がみな土にきえゆく",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000137",
+   "pid": "aozora",
+   "pages": [],
+   "no": 137,
+   "maki": "",
+   "bu": "",
+   "dai": "月夜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あゆみつつ夜更の空をみあぐれば電信柱にかかる月かも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000138",
+   "pid": "aozora",
+   "pages": [],
+   "no": 138,
+   "maki": "",
+   "bu": "",
+   "dai": "月夜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "らんらんと尊とや月はまづし家の屋根いちめん照らすなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000139",
+   "pid": "aozora",
+   "pages": [],
+   "no": 139,
+   "maki": "",
+   "bu": "",
+   "dai": "さびしさ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そのかみの悪性男なきてをり女供養と泣きてをるなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "悪性",
+     "r": "あくしよう"
+    },
+    {
+     "a": "女供養",
+     "r": "くよう"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000140",
+   "pid": "aozora",
+   "pages": [],
+   "no": 140,
+   "maki": "",
+   "bu": "",
+   "dai": "さびしさ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たえまなく胸の扉をあかき衣の侏儒らけふしもたたくなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "扉",
+     "r": "とびら"
+    },
+    {
+     "a": "衣",
+     "r": "い"
+    },
+    {
+     "a": "侏儒",
+     "r": "しゆじゆ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000141",
+   "pid": "aozora",
+   "pages": [],
+   "no": 141,
+   "maki": "",
+   "bu": "",
+   "dai": "さびしさ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "八畳のそのまんなかにあかき林檎ひとつころがしみつめたるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000142",
+   "pid": "aozora",
+   "pages": [],
+   "no": 142,
+   "maki": "",
+   "bu": "",
+   "dai": "さびしさ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わかき我なにのはずみかしはがれし悪魔の声しはつとおどろく",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000143",
+   "pid": "aozora",
+   "pages": [],
+   "no": 143,
+   "maki": "",
+   "bu": "",
+   "dai": "さびしさ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひたすらにわが身いとしと銭湯に脚気の脛をさすりけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "銭湯",
+     "r": "せんたう"
+    },
+    {
+     "a": "脚気",
+     "r": "かつけ"
+    },
+    {
+     "a": "脛",
+     "r": "はぎ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000144",
+   "pid": "aozora",
+   "pages": [],
+   "no": 144,
+   "maki": "",
+   "bu": "",
+   "dai": "さびしさ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かなしきはここの酒場のこのブランあまりに弱き味覚なるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000145",
+   "pid": "aozora",
+   "pages": [],
+   "no": 145,
+   "maki": "",
+   "bu": "",
+   "dai": "さびしさ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "むらさきの縁取りコップたちのぼるココアの湯気のしろき夜かな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "縁取",
+     "r": "へりと"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000146",
+   "pid": "aozora",
+   "pages": [],
+   "no": 146,
+   "maki": "",
+   "bu": "",
+   "dai": "丘に立ちて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひとり死ぬるさびしさなどをおもひつつ狭霧の丘にたちつくすなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "狭霧",
+     "r": "さぎり"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000147",
+   "pid": "aozora",
+   "pages": [],
+   "no": 147,
+   "maki": "",
+   "bu": "",
+   "dai": "丘に立ちて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "丘にたちしみじみ夕日あびにつつ満ち足らふまでなきにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "満",
+     "r": "み"
+    },
+    {
+     "a": "足",
+     "r": "た"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000148",
+   "pid": "aozora",
+   "pages": [],
+   "no": 148,
+   "maki": "",
+   "bu": "",
+   "dai": "丘に立ちて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なきなきていささかひもじくなりければ草の実つみて頬ばりしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000149",
+   "pid": "aozora",
+   "pages": [],
+   "no": 149,
+   "maki": "",
+   "bu": "",
+   "dai": "丘に立ちて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "荒磯べの石ころみちのでこぼこを馬車たかなりてすぎるみゆかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "荒磯",
+     "r": "あらそ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000150",
+   "pid": "aozora",
+   "pages": [],
+   "no": 150,
+   "maki": "",
+   "bu": "",
+   "dai": "丘に立ちて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うらぎりの君のにくさに草の実をつぶせばあかき血のながれたり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000151",
+   "pid": "aozora",
+   "pages": [],
+   "no": 151,
+   "maki": "",
+   "bu": "",
+   "dai": "丘に立ちて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "フレップを摘まむとすればその色の処女にあらず君の乳のいろ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "処女",
+     "r": "おぼこ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000152",
+   "pid": "aozora",
+   "pages": [],
+   "no": 152,
+   "maki": "",
+   "bu": "",
+   "dai": "丘に立ちて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "食人鬼の童のごとし童らは草の実食みて口あかきかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000153",
+   "pid": "aozora",
+   "pages": [],
+   "no": 153,
+   "maki": "",
+   "bu": "",
+   "dai": "母と逢ひて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いたいたしくやせほそりたる吾の母の人力車にのるをながめたるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "吾",
+     "r": "あ"
+    },
+    {
+     "a": "人力",
+     "r": "じんりき"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000154",
+   "pid": "aozora",
+   "pages": [],
+   "no": 154,
+   "maki": "",
+   "bu": "",
+   "dai": "母と逢ひて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うれしくてうれしくて吾はなきにけり幌ををろせといひにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "吾",
+     "r": "あ"
+    },
+    {
+     "a": "幌",
+     "r": "ほろ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000155",
+   "pid": "aozora",
+   "pages": [],
+   "no": 155,
+   "maki": "",
+   "bu": "",
+   "dai": "母と逢ひて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うれしくてうれしくて吾はいくたびも洟をかむなり飯食しにつつ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "洟",
+     "r": "はな"
+    },
+    {
+     "a": "飯",
+     "r": "いひ"
+    },
+    {
+     "a": "食",
+     "r": "を"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000156",
+   "pid": "aozora",
+   "pages": [],
+   "no": 156,
+   "maki": "",
+   "bu": "",
+   "dai": "母と逢ひて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが母のいつとせ前の疳症のひたいのすぢののこりたるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "疳症",
+     "r": "かんしよう"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000157",
+   "pid": "aozora",
+   "pages": [],
+   "no": 157,
+   "maki": "",
+   "bu": "",
+   "dai": "子供王国",
+   "kotobagaki": "",
+   "author": "",
+   "text": "童子ひとりおもちやの弓をひきしぼり矢叫けびたかくはなちけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000158",
+   "pid": "aozora",
+   "pages": [],
+   "no": 158,
+   "maki": "",
+   "bu": "",
+   "dai": "子供王国",
+   "kotobagaki": "",
+   "author": "",
+   "text": "だんだらの道化の帽子かむりたる童子はついになきにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000159",
+   "pid": "aozora",
+   "pages": [],
+   "no": 159,
+   "maki": "",
+   "bu": "",
+   "dai": "子供王国",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いちにんの童子は煙草のむまねをなしてゐるなり悲しからずや",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000160",
+   "pid": "aozora",
+   "pages": [],
+   "no": 160,
+   "maki": "",
+   "bu": "",
+   "dai": "子供王国",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いちにんの童子は童女と草つみて夫婦ごつこをするがかなしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夫婦",
+     "r": "めをと"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000161",
+   "pid": "aozora",
+   "pages": [],
+   "no": 161,
+   "maki": "",
+   "bu": "",
+   "dai": "子供王国",
+   "kotobagaki": "",
+   "author": "",
+   "text": "童子らのなすことをじつとみてをれば草にかぎろひうすらたつみゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000162",
+   "pid": "aozora",
+   "pages": [],
+   "no": 162,
+   "maki": "",
+   "bu": "",
+   "dai": "場末印象",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なにかしらかなしきものの澱みゐる場末の空気吸ばさびしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "澱",
+     "r": "をど"
+    },
+    {
+     "a": "空気吸",
+     "r": "すへ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000163",
+   "pid": "aozora",
+   "pages": [],
+   "no": 163,
+   "maki": "",
+   "bu": "",
+   "dai": "場末印象",
+   "kotobagaki": "",
+   "author": "",
+   "text": "壁土をこねる男のさむげなる素足をみつゝすぎにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000164",
+   "pid": "aozora",
+   "pages": [],
+   "no": 164,
+   "maki": "",
+   "bu": "",
+   "dai": "場末印象",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はるか来てふとみかへれば壁土をこねる男は煙草すふなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000165",
+   "pid": "aozora",
+   "pages": [],
+   "no": 165,
+   "maki": "",
+   "bu": "",
+   "dai": "場末印象",
+   "kotobagaki": "",
+   "author": "",
+   "text": "壁土をこねる男の顔みしが顎鬚のみのみゆるなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "顎鬚",
+     "r": "あごひげ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000166",
+   "pid": "aozora",
+   "pages": [],
+   "no": 166,
+   "maki": "",
+   "bu": "",
+   "dai": "旅愁の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "誰にともなくほほゑみなげて船橋をわかき女の降りけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000167",
+   "pid": "aozora",
+   "pages": [],
+   "no": 167,
+   "maki": "",
+   "bu": "",
+   "dai": "旅愁の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "憂鬱のなすことつきて謹厳のをとこも小唄うたふ船旅",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000168",
+   "pid": "aozora",
+   "pages": [],
+   "no": 168,
+   "maki": "",
+   "bu": "",
+   "dai": "旅愁の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "船人はかなしき鐘鼓うつになれたくみにうちぬ小能登呂岬",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鐘鼓",
+     "r": "しようこ"
+    },
+    {
+     "a": "小能登呂岬",
+     "r": "このとろみさき"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000169",
+   "pid": "aozora",
+   "pages": [],
+   "no": 169,
+   "maki": "",
+   "bu": "",
+   "dai": "旅愁の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "こんぺきの海の平らさ波しろくゆくともみえずランチはしりぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000170",
+   "pid": "aozora",
+   "pages": [],
+   "no": 170,
+   "maki": "",
+   "bu": "",
+   "dai": "旅愁の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "少年の日の積木のごとくあたらしき家々みゆる真岡の港",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000171",
+   "pid": "aozora",
+   "pages": [],
+   "no": 171,
+   "maki": "",
+   "bu": "",
+   "dai": "旅愁の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あまりにも草の色よく海岸にみいりてしばしふるさとおもはず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000172",
+   "pid": "aozora",
+   "pages": [],
+   "no": 172,
+   "maki": "",
+   "bu": "",
+   "dai": "旅愁の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "親すてしかなしふな旅船底にかへれかへれと潮騒きこゆる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000173",
+   "pid": "aozora",
+   "pages": [],
+   "no": 173,
+   "maki": "",
+   "bu": "",
+   "dai": "旅愁の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふるさとにみゆるに堪へず船室にいれどかなしや丸窓にみゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000174",
+   "pid": "aozora",
+   "pages": [],
+   "no": 174,
+   "maki": "",
+   "bu": "",
+   "dai": "風鈴と風",
+   "kotobagaki": "",
+   "author": "",
+   "text": "炎天や風なきまひる風鈴をつるせば風の起りけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000175",
+   "pid": "aozora",
+   "pages": [],
+   "no": 175,
+   "maki": "",
+   "bu": "",
+   "dai": "風鈴と風",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あまりにも四周しづけく魔人きてゆりうごかせよこの天地を",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "天地",
+     "r": "あまつち"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000176",
+   "pid": "aozora",
+   "pages": [],
+   "no": 176,
+   "maki": "",
+   "bu": "",
+   "dai": "風鈴と風",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あまりにも四周さびしく風鈴を買はむこころの起きにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000177",
+   "pid": "aozora",
+   "pages": [],
+   "no": 177,
+   "maki": "",
+   "bu": "",
+   "dai": "風鈴と風",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風鈴のゆれるをみつつしみじみと解熱の薬のみにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "解熱",
+     "r": "げねつ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000178",
+   "pid": "aozora",
+   "pages": [],
+   "no": 178,
+   "maki": "",
+   "bu": "",
+   "dai": "咲ちやん",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いきどほり心にしもて裏の児の咲ちやんをよびあそびけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "心",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000179",
+   "pid": "aozora",
+   "pages": [],
+   "no": 179,
+   "maki": "",
+   "bu": "",
+   "dai": "咲ちやん",
+   "kotobagaki": "",
+   "author": "",
+   "text": "お可笑けれおみな子なれば母ぶりて人形などを抱くなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "可笑",
+     "r": "かし"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000180",
+   "pid": "aozora",
+   "pages": [],
+   "no": 180,
+   "maki": "",
+   "bu": "",
+   "dai": "咲ちやん",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さんだんにうねりてみゆるお河童の髪ゆりていまし駆りくるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "河童",
+     "r": "かつぱ"
+    },
+    {
+     "a": "駆",
+     "r": "かけ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000181",
+   "pid": "aozora",
+   "pages": [],
+   "no": 181,
+   "maki": "",
+   "bu": "",
+   "dai": "咲ちやん",
+   "kotobagaki": "",
+   "author": "",
+   "text": "女なればうちまたにあゆむ咲ちやんのちさき足袋はましろなるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000182",
+   "pid": "aozora",
+   "pages": [],
+   "no": 182,
+   "maki": "",
+   "bu": "",
+   "dai": "咲ちやん",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おはぢきにわざと負ければうれしきと手ふり足ふり踊るなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000183",
+   "pid": "aozora",
+   "pages": [],
+   "no": 183,
+   "maki": "",
+   "bu": "",
+   "dai": "金魚と死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "霜ふればしんじつ命愛しとおもひ金魚に死ねといひにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "命愛",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000184",
+   "pid": "aozora",
+   "pages": [],
+   "no": 184,
+   "maki": "",
+   "bu": "",
+   "dai": "金魚と死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "千べん万べん命のかぎり玻璃鉢の金魚はあはれ尾鰭うごかす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "尾鰭",
+     "r": "をひれ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000185",
+   "pid": "aozora",
+   "pages": [],
+   "no": 185,
+   "maki": "",
+   "bu": "",
+   "dai": "金魚と死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くれないの金魚は体かたむけてあはれ大きく水のみしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000186",
+   "pid": "aozora",
+   "pages": [],
+   "no": 186,
+   "maki": "",
+   "bu": "",
+   "dai": "金魚と死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "六匹の金魚いつしか一匹となりし朝なり雪ふりしかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000187",
+   "pid": "aozora",
+   "pages": [],
+   "no": 187,
+   "maki": "",
+   "bu": "",
+   "dai": "金魚と死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なにもなき金魚の鉢のさびしさに炉石おとせば底に鳴るかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "炉石",
+     "r": "ろろし"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000188",
+   "pid": "aozora",
+   "pages": [],
+   "no": 188,
+   "maki": "",
+   "bu": "",
+   "dai": "酒場と南京玉",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おのれてふ男はついに酒をのむことを知りしがさびしさはます",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000189",
+   "pid": "aozora",
+   "pages": [],
+   "no": 189,
+   "maki": "",
+   "bu": "",
+   "dai": "酒場と南京玉",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冷えまさる秋の夜更けに酒のめば懐さむくなりにける哉",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000190",
+   "pid": "aozora",
+   "pages": [],
+   "no": 190,
+   "maki": "",
+   "bu": "",
+   "dai": "酒場と南京玉",
+   "kotobagaki": "",
+   "author": "",
+   "text": "銀色の尻振時計しりふるをみつつに酒をのめばさびしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "尻",
+     "r": "しり"
+    },
+    {
+     "a": "振",
+     "r": "ふり"
+    },
+    {
+     "a": "時計",
+     "r": "とけい"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000191",
+   "pid": "aozora",
+   "pages": [],
+   "no": 191,
+   "maki": "",
+   "bu": "",
+   "dai": "酒場と南京玉",
+   "kotobagaki": "",
+   "author": "",
+   "text": "酒肆の女のつなぐ青赤の南京玉はよくひかるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "酒肆",
+     "r": "さかみせ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000192",
+   "pid": "aozora",
+   "pages": [],
+   "no": 192,
+   "maki": "",
+   "bu": "",
+   "dai": "酒場と南京玉",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青赤の南京玉を灯のもとにひとつひとつにつなぐ淋しさ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "灯",
+     "r": "ひ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000193",
+   "pid": "aozora",
+   "pages": [],
+   "no": 193,
+   "maki": "",
+   "bu": "",
+   "dai": "酒場と南京玉",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さやさやと秋の葉ずれの音たてて南京玉のよくころぶかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000194",
+   "pid": "aozora",
+   "pages": [],
+   "no": 194,
+   "maki": "",
+   "bu": "",
+   "dai": "酒場と南京玉",
+   "kotobagaki": "",
+   "author": "",
+   "text": "栗色の丸テーブルに酒代の銀貨ををけばころげたるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "酒代",
+     "r": "さかしろ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000195",
+   "pid": "aozora",
+   "pages": [],
+   "no": 195,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "野にたちてひとさし指をたかくあげとまる小蜻蛉とらへけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小蜻蛉",
+     "r": "こあきつ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000196",
+   "pid": "aozora",
+   "pages": [],
+   "no": 196,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼もはるの野の一角に風おきぬ盆花ちりぬあかく小さく",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000197",
+   "pid": "aozora",
+   "pages": [],
+   "no": 197,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほろびたる秋の草花手にとりて月のひかりにすかしみるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000198",
+   "pid": "aozora",
+   "pages": [],
+   "no": 198,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほそりゆく道の極みにひろびろの野をみいだして走りけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000199",
+   "pid": "aozora",
+   "pages": [],
+   "no": 199,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はるばると来はきつれども平原にあゆむあてなし草に坐りぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000200",
+   "pid": "aozora",
+   "pages": [],
+   "no": 200,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さびしきは村の端づれのはねつるべ半円ゑがききしるなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "端",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000201",
+   "pid": "aozora",
+   "pages": [],
+   "no": 201,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風わたる野の枯草のいたましさ折りて抱けど顫ひやまぬかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "抱",
+     "r": "いだ"
+    },
+    {
+     "a": "顫",
+     "r": "ふる"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000202",
+   "pid": "aozora",
+   "pages": [],
+   "no": 202,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆきづりにつみし稲穂のつぶつぶをしみじみ噛みてあゆみけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000203",
+   "pid": "aozora",
+   "pages": [],
+   "no": 203,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝の陽の苺のあかさ眼にひろひ山いつさんにくだりけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000204",
+   "pid": "aozora",
+   "pages": [],
+   "no": 204,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黄昏れの山上にきて街みれば電灯ぱつとともりたるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000205",
+   "pid": "aozora",
+   "pages": [],
+   "no": 205,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山に立ち街みをろせばたくさんの魔術師街をあゆみ居るかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000206",
+   "pid": "aozora",
+   "pages": [],
+   "no": 206,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぴろろろろクラリオネット夕暮れのしづけさやぶり街に流るる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000207",
+   "pid": "aozora",
+   "pages": [],
+   "no": 207,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うづくまり松の根もとの蟻をみるゆき逢ふごとに低頭をして居る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "低頭",
+     "r": "じぎ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000208",
+   "pid": "aozora",
+   "pages": [],
+   "no": 208,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山狭の土の窪みにくさぶきの屋根かたぶけてすまへるか人は",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000209",
+   "pid": "aozora",
+   "pages": [],
+   "no": 209,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もの言はぬ男のごとく焼山の樹々すくすくとたちにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000210",
+   "pid": "aozora",
+   "pages": [],
+   "no": 210,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "児らふたり霞網もちむかつ山にうごけるがみゆ真白き帽子",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000211",
+   "pid": "aozora",
+   "pages": [],
+   "no": 211,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みはるかす畠のあら土うねうねを赤くくまどり陽は落ちにける",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000212",
+   "pid": "aozora",
+   "pages": [],
+   "no": 212,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "どよもして汽車はすぎにけるそのあとはあたりしんしん静かなるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000213",
+   "pid": "aozora",
+   "pages": [],
+   "no": 213,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "土手下に蛙ころころなきいでぬさみしらにまた口笛をふく",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蛙",
+     "r": "かはず"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000214",
+   "pid": "aozora",
+   "pages": [],
+   "no": 214,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やめよ子等しら樺の樹のかははぐをいたいたしきぞあかき肌みゆる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000215",
+   "pid": "aozora",
+   "pages": [],
+   "no": 215,
+   "maki": "",
+   "bu": "",
+   "dai": "広野",
+   "kotobagaki": "",
+   "author": "",
+   "text": "樹の樹皮に木虫みつけぬ児ら焼きてよろこびて食む疳の妙薬",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "樹皮",
+     "r": "じゆひ"
+    },
+    {
+     "a": "食",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000216",
+   "pid": "aozora",
+   "pages": [],
+   "no": 216,
+   "maki": "",
+   "bu": "",
+   "dai": "幻影の壺",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ましろなる沼の白鳥とろ壺にまぢかくをりて壺みかへらず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000217",
+   "pid": "aozora",
+   "pages": [],
+   "no": 217,
+   "maki": "",
+   "bu": "",
+   "dai": "幻影の壺",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もろもろのけだものどもは泥壺をまるくとりまき吠えにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000218",
+   "pid": "aozora",
+   "pages": [],
+   "no": 218,
+   "maki": "",
+   "bu": "",
+   "dai": "幻影の壺",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤猫のあやしき舞ひにどろ壺はかすかにかすかにゆらぎけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000219",
+   "pid": "aozora",
+   "pages": [],
+   "no": 219,
+   "maki": "",
+   "bu": "",
+   "dai": "幻影の壺",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そのかみは蛇は壺をいだき死せるかな青き蛇紋のうかびあるなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蛇",
+     "r": "じや"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000220",
+   "pid": "aozora",
+   "pages": [],
+   "no": 220,
+   "maki": "",
+   "bu": "",
+   "dai": "幻影の壺",
+   "kotobagaki": "",
+   "author": "",
+   "text": "どろ壺の底をのぞけばむらさきのかなしみの精たまりあるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000221",
+   "pid": "aozora",
+   "pages": [],
+   "no": 221,
+   "maki": "",
+   "bu": "",
+   "dai": "幻影の壺",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しんしんともろ手につたふ泥壺のどろのぬくみのなつかしきかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000222",
+   "pid": "aozora",
+   "pages": [],
+   "no": 222,
+   "maki": "",
+   "bu": "",
+   "dai": "幻影の壺",
+   "kotobagaki": "",
+   "author": "",
+   "text": "彫刻のなきどろ壺はなめらかに青くさびしく月にひかりぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000223",
+   "pid": "aozora",
+   "pages": [],
+   "no": 223,
+   "maki": "",
+   "bu": "",
+   "dai": "養鶏場にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雌鶏はゆきつもどりつ鶏小屋に陣痛するとなきにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000224",
+   "pid": "aozora",
+   "pages": [],
+   "no": 224,
+   "maki": "",
+   "bu": "",
+   "dai": "養鶏場にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "めんどりは陣痛するとみづからの腹のにほひをかぎにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000225",
+   "pid": "aozora",
+   "pages": [],
+   "no": 225,
+   "maki": "",
+   "bu": "",
+   "dai": "養鶏場にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "どよもしてみな走りゆくにくらしさ食卵のくせ鶏らはしりぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000226",
+   "pid": "aozora",
+   "pages": [],
+   "no": 226,
+   "maki": "",
+   "bu": "",
+   "dai": "養鶏場にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愛しければ鶏の餌にもと雪ほりてキャベツ畠のキャベツをさがす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "愛",
+     "r": "いと"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000227",
+   "pid": "aozora",
+   "pages": [],
+   "no": 227,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜となれば酒をひた欲るつぶら眼の夢遊病者となりにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000228",
+   "pid": "aozora",
+   "pages": [],
+   "no": 228,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しづか夜の辻うら売りを愛ほしとおもひしづかに酒のみしかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000229",
+   "pid": "aozora",
+   "pages": [],
+   "no": 229,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "悲しさよわれにむかひて鳴きてゐる虫の言葉をきく耳もたず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000230",
+   "pid": "aozora",
+   "pages": [],
+   "no": 230,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蟋蟀の鳴く音止めむと叢を夜露にぬれてゆれどやまずも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "叢",
+     "r": "くさむら"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000231",
+   "pid": "aozora",
+   "pages": [],
+   "no": 231,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ていねいに夜の小路の大き石はぎてみたれど蟋蟀は居ず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小路",
+     "r": "こうぢ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000232",
+   "pid": "aozora",
+   "pages": [],
+   "no": 232,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜の街鉞もちて男ゆくふつとおそれのわきにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "街鉞",
+     "r": "まさかり"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000233",
+   "pid": "aozora",
+   "pages": [],
+   "no": 233,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "連れだちてあゆむ汝が母みめよきを妾腹の子よ悲しからずや",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "汝",
+     "r": "な"
+    },
+    {
+     "a": "妾腹",
+     "r": "しようふく"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000234",
+   "pid": "aozora",
+   "pages": [],
+   "no": 234,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜の街うつろにものを言ふごとく声ひびかせて人すぎにける",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000235",
+   "pid": "aozora",
+   "pages": [],
+   "no": 235,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "われ死ぬるときのさまなど夜の床に夜着をかむりておもひけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000236",
+   "pid": "aozora",
+   "pages": [],
+   "no": 236,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "差押へその赤紙をみつめつつ兄はへらへら笑ひけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000237",
+   "pid": "aozora",
+   "pages": [],
+   "no": 237,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "へらへらと笑ひし顔のさびしかり青くつめたくみえにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000238",
+   "pid": "aozora",
+   "pages": [],
+   "no": 238,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "酒のみて歌をうたふを淫乱とおもふな女さびしければぞ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000239",
+   "pid": "aozora",
+   "pages": [],
+   "no": 239,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しさは沼の水泥にうづもれし壺のこころのごとき夜の更け",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000240",
+   "pid": "aozora",
+   "pages": [],
+   "no": 240,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "虫のごと呼吸たへるまで秋さむの河岸にいで歌をうたはむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000241",
+   "pid": "aozora",
+   "pages": [],
+   "no": 241,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いねがたく詩集手にとり表紙画のあをき壺などかなしめるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000242",
+   "pid": "aozora",
+   "pages": [],
+   "no": 242,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "科もなき妹をしかりしそののちのさびしきこころ夕雲をみる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "科",
+     "r": "とが"
+    },
+    {
+     "a": "妹",
+     "r": "いも"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000243",
+   "pid": "aozora",
+   "pages": [],
+   "no": 243,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この弱きをとこの血潮吸はむとし夜蚊はせまりぬ眉の間に",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000244",
+   "pid": "aozora",
+   "pages": [],
+   "no": 244,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "去ねといひ去なぬといひてかの君と争そひしこともうれしきひとつ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "去",
+     "r": "い"
+    },
+    {
+     "a": "去",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000245",
+   "pid": "aozora",
+   "pages": [],
+   "no": 245,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆるせ君きみ魔となれと山奥に大樹たたきて呪ひたること",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000246",
+   "pid": "aozora",
+   "pages": [],
+   "no": 246,
+   "maki": "",
+   "bu": "",
+   "dai": "折々雑記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この花を愛すといひて白薔薇に触るれば花のちるがかなしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000247",
+   "pid": "aozora",
+   "pages": [],
+   "no": 247,
+   "maki": "",
+   "bu": "",
+   "dai": "疎林落陽",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うらがれの林にたてばしんじつに露はつめたくおもはれしかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000248",
+   "pid": "aozora",
+   "pages": [],
+   "no": 248,
+   "maki": "",
+   "bu": "",
+   "dai": "疎林落陽",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うつくしく疎林くまなく陽はてりぬここにをとこは首くくりせむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "疎林",
+     "r": "そりん"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000249",
+   "pid": "aozora",
+   "pages": [],
+   "no": 249,
+   "maki": "",
+   "bu": "",
+   "dai": "疎林落陽",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うつうつと林にいれば蔓草の首くくりせといひにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蔓草",
+     "r": "つるくさ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000250",
+   "pid": "aozora",
+   "pages": [],
+   "no": 250,
+   "maki": "",
+   "bu": "",
+   "dai": "疎林落陽",
+   "kotobagaki": "",
+   "author": "",
+   "text": "首くくれば親がなくぞとたれさがる蔦にむかひていひにけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蔦",
+     "r": "つた"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000251",
+   "pid": "aozora",
+   "pages": [],
+   "no": 251,
+   "maki": "",
+   "bu": "",
+   "dai": "疎林落陽",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かなしかるものの化身のみえかくれひそかにわれにせまるとおもふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000252",
+   "pid": "aozora",
+   "pages": [],
+   "no": 252,
+   "maki": "",
+   "bu": "",
+   "dai": "炉石を弄る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "瘡つきし野獣の如き風鳴りの心細さよ炉の石をいぢる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "瘡",
+     "r": "きず"
+    },
+    {
+     "a": "風鳴",
+     "r": "かざな"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000253",
+   "pid": "aozora",
+   "pages": [],
+   "no": 253,
+   "maki": "",
+   "bu": "",
+   "dai": "炉石を弄る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なるがままに委してをけといふ情なき心となりし二三年かな",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "委",
+     "r": "まか"
+    },
+    {
+     "a": "情",
+     "r": "なさけ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000254",
+   "pid": "aozora",
+   "pages": [],
+   "no": 254,
+   "maki": "",
+   "bu": "",
+   "dai": "炉石を弄る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そと触れてもものに怖づてふ自らのかなしき性をひとりさびしむ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "自",
+     "r": "みづか"
+    },
+    {
+     "a": "性",
+     "r": "さが"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000255",
+   "pid": "aozora",
+   "pages": [],
+   "no": 255,
+   "maki": "",
+   "bu": "",
+   "dai": "炉石を弄る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "床屋より帰れば従妹しげしげと顔をみるなり二階にあがる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    20
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000256",
+   "pid": "aozora",
+   "pages": [],
+   "no": 256,
+   "maki": "",
+   "bu": "",
+   "dai": "七夕",
+   "kotobagaki": "",
+   "author": "",
+   "text": "七夕の柳ひきづつて行つたばかりの路だ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000257",
+   "pid": "aozora",
+   "pages": [],
+   "no": 257,
+   "maki": "",
+   "bu": "",
+   "dai": "七夕",
+   "kotobagaki": "",
+   "author": "",
+   "text": "河原の石白々とせきれいの尾も白い",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000258",
+   "pid": "aozora",
+   "pages": [],
+   "no": 258,
+   "maki": "",
+   "bu": "",
+   "dai": "七夕",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほとほとと困うじ果てたるわたしの生活",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "困",
+     "r": "こ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000259",
+   "pid": "aozora",
+   "pages": [],
+   "no": 259,
+   "maki": "",
+   "bu": "",
+   "dai": "七夕",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そつとして置け女、恋ごころ、こはれる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000260",
+   "pid": "aozora",
+   "pages": [],
+   "no": 260,
+   "maki": "",
+   "bu": "",
+   "dai": "真つすぐな街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "美瑛町のまつすぐな街に立つてゐる女憎らしい",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000261",
+   "pid": "aozora",
+   "pages": [],
+   "no": 261,
+   "maki": "",
+   "bu": "",
+   "dai": "真つすぐな街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "入浴をそそる午後の陽にしんみり坐つてゐる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000262",
+   "pid": "aozora",
+   "pages": [],
+   "no": 262,
+   "maki": "",
+   "bu": "",
+   "dai": "真つすぐな街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "珠を拾つてみたい幅広い夜の街",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000263",
+   "pid": "aozora",
+   "pages": [],
+   "no": 263,
+   "maki": "",
+   "bu": "",
+   "dai": "真つすぐな街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつぴきのけもの街を馳けぬけた深夜のひととき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000264",
+   "pid": "aozora",
+   "pages": [],
+   "no": 264,
+   "maki": "",
+   "bu": "",
+   "dai": "真つすぐな街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ごむ靴を穿いた子供の気持である",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000265",
+   "pid": "aozora",
+   "pages": [],
+   "no": 265,
+   "maki": "",
+   "bu": "",
+   "dai": "真つすぐな街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愛しうてならない馬が街を通つた",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000266",
+   "pid": "aozora",
+   "pages": [],
+   "no": 266,
+   "maki": "",
+   "bu": "",
+   "dai": "真つすぐな街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歩るいてゐるのが不思議でならず足をながめる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000267",
+   "pid": "aozora",
+   "pages": [],
+   "no": 267,
+   "maki": "",
+   "bu": "",
+   "dai": "真つすぐな街",
+   "kotobagaki": "",
+   "author": "",
+   "text": "拳銃を欲しくてならない女を撃つ拳銃でないのです",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000268",
+   "pid": "aozora",
+   "pages": [],
+   "no": 268,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "共産主義、無政府主義、社会主義、みなくだらなしただなんとなし舌触りよし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000269",
+   "pid": "aozora",
+   "pages": [],
+   "no": 269,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人なみに妻を娶りて子を産みてさてそのつぎのおそろしきかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000270",
+   "pid": "aozora",
+   "pages": [],
+   "no": 270,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "争ひて頬をうちしが争ひて髪をきりしが妻は妻なり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000271",
+   "pid": "aozora",
+   "pages": [],
+   "no": 271,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "子の愛を感ぜずと強く言ひきりてそれは嘘なり弱きダダイスト",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000272",
+   "pid": "aozora",
+   "pages": [],
+   "no": 272,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "神よこの一人の無神論者を救ひ見よとたんかきりしが多少淋しし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000273",
+   "pid": "aozora",
+   "pages": [],
+   "no": 273,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あらん限りの手段もて妻を虐げる之を称して倦怠期といふ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "手段",
+     "r": "てだて"
+    },
+    {
+     "a": "虐",
+     "r": "しひた"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000274",
+   "pid": "aozora",
+   "pages": [],
+   "no": 274,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "脱走の男の如く土埃たてて街ゆく自動自転車かな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "自動自転車",
+     "r": "おーとばい"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000275",
+   "pid": "aozora",
+   "pages": [],
+   "no": 275,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "函館の修道院が焼しといふ新聞を見て嬉しくなりぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000276",
+   "pid": "aozora",
+   "pages": [],
+   "no": 276,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金のなきこの生活がさ程にも不思議にあらず不平をいふな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000277",
+   "pid": "aozora",
+   "pages": [],
+   "no": 277,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黴菌の如く子が殖へるごとしそそくさと袴をつけて外出をする",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000278",
+   "pid": "aozora",
+   "pages": [],
+   "no": 278,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "妻と子が家畜の如く見ゆるなりつつましく朝の味噌汁を吸ふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000279",
+   "pid": "aozora",
+   "pages": [],
+   "no": 279,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "酒飲めば酒に溺れる男なり教会の門に小便をする",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000280",
+   "pid": "aozora",
+   "pages": [],
+   "no": 280,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小つぽけな墓を立ててやらんと思へり子が死ねば夫婦別れの約束をする",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000281",
+   "pid": "aozora",
+   "pages": [],
+   "no": 281,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "野菜畑の野菜の中にただずみて野菜になればよしと思へり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000282",
+   "pid": "aozora",
+   "pages": [],
+   "no": 282,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤十字の白きベッドに血を吐きし友を見舞へるが友はほほゑまず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000283",
+   "pid": "aozora",
+   "pages": [],
+   "no": 283,
+   "maki": "",
+   "bu": "",
+   "dai": "無神論者の歌へる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大いなる赤き球の如き月夜なり叛乱の旗のごとくのぼりて",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000284",
+   "pid": "aozora",
+   "pages": [],
+   "no": 284,
+   "maki": "",
+   "bu": "",
+   "dai": "短冊の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うつくしや美瑛の菓子屋の店先のコンペートの赤青の色",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000285",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "短冊の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（姉の枕元に掛けてあった短冊の歌）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "oguma-tankashu-000286",
+   "pid": "aozora",
+   "pages": [],
+   "no": 285,
+   "maki": "",
+   "bu": "",
+   "dai": "第二回旭川歌話会詠草",
+   "kotobagaki": "",
+   "author": "",
+   "text": "草丘は雪に掩はれこの朝はまつたく冬となりにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000287",
+   "pid": "aozora",
+   "pages": [],
+   "no": 286,
+   "maki": "",
+   "bu": "",
+   "dai": "第四回旭川歌話会詠草",
+   "kotobagaki": "",
+   "author": "",
+   "text": "裏道の石の壁をばよぎりたり入日はあかるく足もとを照らす",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000288",
+   "pid": "aozora",
+   "pages": [],
+   "no": 287,
+   "maki": "",
+   "bu": "",
+   "dai": "第五回旭川歌話会即詠",
+   "kotobagaki": "早春（上）",
+   "author": "",
+   "text": "み冬つきて春べとなりぬ庭松の囲ひの癖も眼にわづらはし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000289",
+   "pid": "aozora",
+   "pages": [],
+   "no": 288,
+   "maki": "",
+   "bu": "",
+   "dai": "第六回旭川歌話会記",
+   "kotobagaki": "",
+   "author": "",
+   "text": "庭さきに馬をひきだし毛を揃へ馬耕の用意するか農夫等",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000290",
+   "pid": "aozora",
+   "pages": [],
+   "no": 289,
+   "maki": "",
+   "bu": "",
+   "dai": "第九回旭川歌話会詠草",
+   "kotobagaki": "",
+   "author": "",
+   "text": "牧小屋の真上の空はくもりぞら白雲疾くかげをさをめり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000291",
+   "pid": "aozora",
+   "pages": [],
+   "no": 290,
+   "maki": "",
+   "bu": "",
+   "dai": "第十回旭川歌話会詠草",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが屋戸の壁にのびたる花豆のかげりにあれば色あせてけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000292",
+   "pid": "aozora",
+   "pages": [],
+   "no": 291,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "――層雲峡温泉に遊びて――",
+   "author": "",
+   "text": "峡添に路をひらくと男等はしげりにこもり高き声たつ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "峡添",
+     "r": "かいそへ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000293",
+   "pid": "aozora",
+   "pages": [],
+   "no": 292,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "崖下をとをりて仰ぐ眼に紅葉深山をいでゝ峡はあかるし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅葉深山",
+     "r": "みやま"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000294",
+   "pid": "aozora",
+   "pages": [],
+   "no": 293,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昼ながらま近く来鳴く怪鳥の羽音にしんといやしづむ山",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000295",
+   "pid": "aozora",
+   "pages": [],
+   "no": 294,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "樹をうちて羽音も荒き怪鳥のすがたをみむと息を凝らしつ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000296",
+   "pid": "aozora",
+   "pages": [],
+   "no": 295,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "湯煙を顔にうけつゝ真青なるつぼの湛へにかゞまりゐるも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真青",
+     "r": "まさを"
+    },
+    {
+     "a": "湛",
+     "r": "たゞ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000297",
+   "pid": "aozora",
+   "pages": [],
+   "no": 296,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たぎれども色すみ透る湯のつぼにしづむ土鼠のその白き足",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "土鼠",
+     "r": "もぐら"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000298",
+   "pid": "aozora",
+   "pages": [],
+   "no": 297,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山路に這ひもあがるとトカゲの尾きらゝと石に青光るなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000299",
+   "pid": "aozora",
+   "pages": [],
+   "no": 298,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あたらしき樋をふせつゝ湯けむりをあびる男の打つ杭の音",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "樋",
+     "r": "とひ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000300",
+   "pid": "aozora",
+   "pages": [],
+   "no": 299,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "手拭を肩にかけゆく長廊下外面は霧にこもりしづもる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "長廊下外面",
+     "r": "とのも"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000301",
+   "pid": "aozora",
+   "pages": [],
+   "no": 300,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おりしづむさ霧をかんじひたりゐて肌にさらめく湯のこゝちよき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000302",
+   "pid": "aozora",
+   "pages": [],
+   "no": 301,
+   "maki": "",
+   "bu": "",
+   "dai": "怪鳥",
+   "kotobagaki": "",
+   "author": "",
+   "text": "提灯をもつは女か温泉の宿の闇の山坂ゆきかへるなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "温泉",
+     "r": "ゆ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000303",
+   "pid": "aozora",
+   "pages": [],
+   "no": 302,
+   "maki": "",
+   "bu": "",
+   "dai": "（１）十一年振りの旭川",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はるばると来て清浄無垢を学びたり朝あけに見るヌタクカムシペの山",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000304",
+   "pid": "aozora",
+   "pages": [],
+   "no": 303,
+   "maki": "",
+   "bu": "",
+   "dai": "（１）十一年振りの旭川",
+   "kotobagaki": "",
+   "author": "",
+   "text": "色あせてはためき寒し応召の屋根の上なる日の丸の旗",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000305",
+   "pid": "aozora",
+   "pages": [],
+   "no": 304,
+   "maki": "",
+   "bu": "",
+   "dai": "（１）十一年振りの旭川",
+   "kotobagaki": "",
+   "author": "",
+   "text": "喫茶部のツンとすました女故またコオヒイのうまき味かな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "喫茶部",
+     "r": "きつちやぶ"
+    },
+    {
+     "a": "女故",
+     "r": "ゆゑ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000306",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "（１）十一年振りの旭川",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（北海ホテル茶房にて）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "oguma-tankashu-000307",
+   "pid": "aozora",
+   "pages": [],
+   "no": 305,
+   "maki": "",
+   "bu": "",
+   "dai": "（１）十一年振りの旭川",
+   "kotobagaki": "",
+   "author": "",
+   "text": "久しぶりでホテルの酒房にでんぐりかへりあゝ道徳がなけらばと思ふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000308",
+   "pid": "aozora",
+   "pages": [],
+   "no": 306,
+   "maki": "",
+   "bu": "",
+   "dai": "（１）十一年振りの旭川",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いちめんのたんぽぽの野の美しさ触れてもみれば散りしぶりたる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000309",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "（１）十一年振りの旭川",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（神楽岡）",
+   "sachu": "",
+   "poems": [],
+   "jo": true,
+   "ruby": [
+    {
+     "a": "神楽",
+     "r": "ら"
+    },
+    {
+     "a": "岡",
+     "r": "をか"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000310",
+   "pid": "aozora",
+   "pages": [],
+   "no": 307,
+   "maki": "",
+   "bu": "",
+   "dai": "（１）十一年振りの旭川",
+   "kotobagaki": "",
+   "author": "",
+   "text": "旭川友あり姉あり酒もあり心弱ければ剣を恐るる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "剣",
+     "r": "けん"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000311",
+   "pid": "aozora",
+   "pages": [],
+   "no": 308,
+   "maki": "",
+   "bu": "",
+   "dai": "（１）十一年振りの旭川",
+   "kotobagaki": "",
+   "author": "",
+   "text": "旭川雪よりいでてなを白き女の街よ去りがたきかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000312",
+   "pid": "aozora",
+   "pages": [],
+   "no": 309,
+   "maki": "",
+   "bu": "",
+   "dai": "（２）農村ところどころ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わつさむの空の紺碧眼にしみて百姓と空と瞼を去らず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000313",
+   "pid": "aozora",
+   "pages": [],
+   "no": 310,
+   "maki": "",
+   "bu": "",
+   "dai": "（２）農村ところどころ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "窓もない百姓小屋のおそろしき暗さの中に子供らが住む",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000314",
+   "pid": "aozora",
+   "pages": [],
+   "no": 311,
+   "maki": "",
+   "bu": "",
+   "dai": "（２）農村ところどころ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "つつましく店番をする女ありかどに大きく『出征兵士の家』",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000315",
+   "pid": "aozora",
+   "pages": [],
+   "no": 312,
+   "maki": "",
+   "bu": "",
+   "dai": "（２）農村ところどころ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "噛めばかたくなめれば甘き落花糖うのみにすればのどつまりする",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000316",
+   "pid": "aozora",
+   "pages": [],
+   "no": 313,
+   "maki": "",
+   "bu": "",
+   "dai": "（２）農村ところどころ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水田の泥にうづまり動く人赤き帯故娘と知るも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000317",
+   "pid": "aozora",
+   "pages": [],
+   "no": 314,
+   "maki": "",
+   "bu": "",
+   "dai": "（２）農村ところどころ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昼よりも明るきほどの月夜なりおもひ消せども浮びくる顔",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000318",
+   "pid": "aozora",
+   "pages": [],
+   "no": 315,
+   "maki": "",
+   "bu": "",
+   "dai": "（２）農村ところどころ",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あふむきてふくゴールデンバットの煙りなり北海道の重き夜具かな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000319",
+   "pid": "aozora",
+   "pages": [],
+   "no": 316,
+   "maki": "",
+   "bu": "",
+   "dai": "（３）美瑛村に泊る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山は雪、町は暑さのはげしさよ美瑛の人はおだやかにして",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "美",
+     "r": "び"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000320",
+   "pid": "aozora",
+   "pages": [],
+   "no": 317,
+   "maki": "",
+   "bu": "",
+   "dai": "（３）美瑛村に泊る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "硫黄山暁かけて段落にクリイム色の靄はかゝりぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "段落",
+     "r": "たんらく"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000321",
+   "pid": "aozora",
+   "pages": [],
+   "no": 318,
+   "maki": "",
+   "bu": "",
+   "dai": "（３）美瑛村に泊る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝あけのもやにうつなり大太鼓十勝の原は肌寒くして",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000322",
+   "pid": "aozora",
+   "pages": [],
+   "no": 319,
+   "maki": "",
+   "bu": "",
+   "dai": "（３）美瑛村に泊る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "師団山、兵ら斜面のトーチカにうてやうてうて気のすむまでに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000323",
+   "pid": "aozora",
+   "pages": [],
+   "no": 320,
+   "maki": "",
+   "bu": "",
+   "dai": "（３）美瑛村に泊る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "とをくより就寝ラッパきこゆなり夜眼にもしるき白つつじの花",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000324",
+   "pid": "aozora",
+   "pages": [],
+   "no": 321,
+   "maki": "",
+   "bu": "",
+   "dai": "（３）美瑛村に泊る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜の更けの警備の兵の着剣を青くてらすはタングステンの月",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000325",
+   "pid": "aozora",
+   "pages": [],
+   "no": 322,
+   "maki": "",
+   "bu": "",
+   "dai": "（３）美瑛村に泊る",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はたとやむ蛙の声よ旅に来て美瑛の街の中天の月",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "美",
+     "r": "び"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000326",
+   "pid": "aozora",
+   "pages": [],
+   "no": 323,
+   "maki": "",
+   "bu": "",
+   "dai": "（４）塩狩駅にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "平原の百姓小屋の物乾しのこれが人間の着る着物かな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000327",
+   "pid": "aozora",
+   "pages": [],
+   "no": 324,
+   "maki": "",
+   "bu": "",
+   "dai": "（４）塩狩駅にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この冬は薪木とる山なしといふ北海道の百姓の暮らし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000328",
+   "pid": "aozora",
+   "pages": [],
+   "no": 325,
+   "maki": "",
+   "bu": "",
+   "dai": "（４）塩狩駅にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼をもつて追へどはてなきこの原のどこに行つても鮮人がゐる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000329",
+   "pid": "aozora",
+   "pages": [],
+   "no": 326,
+   "maki": "",
+   "bu": "",
+   "dai": "（４）塩狩駅にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鮮人よ、日本のユダヤ、さすらひて口と土地とに生きつづくなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000330",
+   "pid": "aozora",
+   "pages": [],
+   "no": 327,
+   "maki": "",
+   "bu": "",
+   "dai": "（４）塩狩駅にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "親切をつくせる女しほかりで下車てしまへりそれきりのこと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000331",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "（４）塩狩駅にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（塩狩駅にて）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "oguma-tankashu-000332",
+   "pid": "aozora",
+   "pages": [],
+   "no": 328,
+   "maki": "",
+   "bu": "",
+   "dai": "（４）塩狩駅にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "慾望の果てに疲れて旅すれば眼にうつりしはとき知らずの花",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000333",
+   "pid": "aozora",
+   "pages": [],
+   "no": 329,
+   "maki": "",
+   "bu": "",
+   "dai": "（４）塩狩駅にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝やけは朱と紫のだんだらに山を染め分け明けんとするも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000334",
+   "pid": "aozora",
+   "pages": [],
+   "no": 330,
+   "maki": "",
+   "bu": "",
+   "dai": "（５）名寄町にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "幅広き名寄の町に降りたちて煙草屋の娘に路をたづねる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "名寄",
+     "r": "よろ"
+    }
+   ]
+  },
+  {
+   "id": "oguma-tankashu-000335",
+   "pid": "aozora",
+   "pages": [],
+   "no": 331,
+   "maki": "",
+   "bu": "",
+   "dai": "（５）名寄町にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "屋根低き名寄の町に風荒れぬ呼吸ひそめつつ人ら住めるも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000336",
+   "pid": "aozora",
+   "pages": [],
+   "no": 332,
+   "maki": "",
+   "bu": "",
+   "dai": "（５）名寄町にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黒百合のはげしき色を眼にすゑて昔の女にくみはじめぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000337",
+   "pid": "aozora",
+   "pages": [],
+   "no": 333,
+   "maki": "",
+   "bu": "",
+   "dai": "（５）名寄町にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "味気なや旅の心に鳴るものはかたくつめたきトンカツの皿",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000338",
+   "pid": "aozora",
+   "pages": [],
+   "no": 334,
+   "maki": "",
+   "bu": "",
+   "dai": "（５）名寄町にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "新しきことにおどろくゆたかさの眼をして咲くは三色菫",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000339",
+   "pid": "aozora",
+   "pages": [],
+   "no": 335,
+   "maki": "",
+   "bu": "",
+   "dai": "（５）名寄町にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝早く騎馬一頭は駈けすぎぬ緋色の夜具の乾されたる街",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000340",
+   "pid": "aozora",
+   "pages": [],
+   "no": 336,
+   "maki": "",
+   "bu": "",
+   "dai": "（５）名寄町にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜更けまで光散らして蹄鉄をうつ馬もあしたは徴発されん",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000341",
+   "pid": "aozora",
+   "pages": [],
+   "no": 337,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けんぶちの木材置場、木の木口これがみんな百姓の頭だ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000342",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（剣淵所見）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "oguma-tankashu-000343",
+   "pid": "aozora",
+   "pages": [],
+   "no": 338,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雲立ちてらんるの駅の荒々しさ旅立ちゆくも薄情にあらず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000344",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（蘭留駅にて）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "oguma-tankashu-000345",
+   "pid": "aozora",
+   "pages": [],
+   "no": 339,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小使が欠食児童の名を呼びて弁当をくばる村の学校",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000346",
+   "pid": "aozora",
+   "pages": [],
+   "no": 340,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "のみながらウドの酢の物まくらへば旅するものの心やすらふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000347",
+   "pid": "aozora",
+   "pages": [],
+   "no": 341,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生きぬけばつよき風よりなほ強しうなだれて咲くおだまきの花",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000348",
+   "pid": "aozora",
+   "pages": [],
+   "no": 342,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "純情の同志を生みしこの街よ今野大力はいま世にあらず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000349",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（今野は旭川出身、旧『戦旗』編輯者）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "oguma-tankashu-000350",
+   "pid": "aozora",
+   "pages": [],
+   "no": 343,
+   "maki": "",
+   "bu": "",
+   "dai": "（６）旅情雑詠",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ヱピリット、ホスゲンと特務曹長声高し汽車で語るは戦術の話",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000351",
+   "pid": "aozora",
+   "pages": [],
+   "no": 344,
+   "maki": "",
+   "bu": "",
+   "dai": "（完）旭川にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "旭川こゝに一人の女をみいだせり不安募りきて旅立ちいそぐ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000352",
+   "pid": "aozora",
+   "pages": [],
+   "no": 345,
+   "maki": "",
+   "bu": "",
+   "dai": "（完）旭川にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愛すれば苦しき町とかはりけり空澄める町にすみかねるなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000353",
+   "pid": "aozora",
+   "pages": [],
+   "no": 346,
+   "maki": "",
+   "bu": "",
+   "dai": "（完）旭川にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "去りゆけど思ひはいつもとどまらぬ石狩川の白き堤防",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000354",
+   "pid": "aozora",
+   "pages": [],
+   "no": 347,
+   "maki": "",
+   "bu": "",
+   "dai": "（完）旭川にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "北海に愛歌をつくるめでたさを友よ責めるな真実なれば",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000355",
+   "pid": "aozora",
+   "pages": [],
+   "no": 348,
+   "maki": "",
+   "bu": "",
+   "dai": "（完）旭川にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぱつちりと東京行のきつぷ切られけりやうやく帰る心となりぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000356",
+   "pid": "aozora",
+   "pages": [],
+   "no": 349,
+   "maki": "",
+   "bu": "",
+   "dai": "（完）旭川にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "石狩の少女の胸の白さかなとをくとどろく鉄橋の汽車",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000357",
+   "pid": "aozora",
+   "pages": [],
+   "no": 350,
+   "maki": "",
+   "bu": "",
+   "dai": "（完）旭川にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "動揺をあたへて去れどゆるし給へときくれば咲く鬼げしの花",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000358",
+   "pid": "aozora",
+   "pages": [],
+   "no": 351,
+   "maki": "",
+   "bu": "",
+   "dai": "鎌倉にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "横顔は多少美し大仏の背中に窓があいてゐるとは",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000359",
+   "pid": "aozora",
+   "pages": [],
+   "no": 352,
+   "maki": "",
+   "bu": "",
+   "dai": "鎌倉にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さほどまで美男にあらず鎌倉の大仏さまは喰は（せ）ものなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000360",
+   "pid": "aozora",
+   "pages": [],
+   "no": 353,
+   "maki": "",
+   "bu": "",
+   "dai": "逗子にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生きるにも死ぬにも不便なところなり逗子の汀は遠あさなれば",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000361",
+   "pid": "aozora",
+   "pages": [],
+   "no": 354,
+   "maki": "",
+   "bu": "",
+   "dai": "逗子にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "逗子の海波のくらさの折返しくだけ光るは夜光虫かな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000362",
+   "pid": "aozora",
+   "pages": [],
+   "no": 355,
+   "maki": "",
+   "bu": "",
+   "dai": "逗子にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "手の上に消えるともせぬ夜光虫つめたくひかる虫の心かな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000363",
+   "pid": "aozora",
+   "pages": [],
+   "no": 356,
+   "maki": "",
+   "bu": "",
+   "dai": "逗子にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風荒れもいつかはやまるときあらんゆれてやすまぬ樹の心かな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000364",
+   "pid": "aozora",
+   "pages": [],
+   "no": 357,
+   "maki": "",
+   "bu": "",
+   "dai": "小坪にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小坪にて川島浪子と逢ひにけり汀で犬とたはむれてゐし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000365",
+   "pid": "aozora",
+   "pages": [],
+   "no": 358,
+   "maki": "",
+   "bu": "",
+   "dai": "美瑛にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆらゆらと千城橋の行きかへり風にふかれて吸ふ煙草かな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "oguma-tankashu-000366",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "美瑛にて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（煙草を吸へば味のよきかな）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "oguma-tankashu",
+  "work": "小熊秀雄 短歌集",
+  "yomi": "おぐまひでおたんかしゅう",
+  "category": "近代歌集",
+  "era": "昭和時代",
+  "author": "小熊秀雄",
+  "kind": "kashu",
+  "blocks": 366,
+  "chars": 9684,
+  "poems": 358,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-11-21",
+  "updated_at": "2026-11-21T19:19:24+09:00"
+ }
+}
